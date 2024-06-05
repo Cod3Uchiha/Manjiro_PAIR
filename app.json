@@ -1,8 +1,8 @@
-    "name": "CLASSIC BOT SESSION",
-    "description": "I am Classic. A Simple Multidevice Whatsapp Bot built in NodeJs to make experience better.",
-    "logo": "https://telegra.ph/file/2ae0cad2846f8f24c0bc2.jpg",
-    "repository": "https://github.com/Samue-l1/Classic-v3-BUG",
-    "keywords": ["whatsappbot", "Classic", "Classic bot", "Classic Md", "GhostMdWhatsappBot", "GhostWaBot","GhostMD","Ghost Md Whatsapp Bot","multi device"],
+    "name": "Manjiro-Sano-md SESSION",
+    "description": "I am Manjiro-Sano-md. A Simple Multidevice Whatsapp Bot built in NodeJs to make experience better.",
+    "logo": "https://telegra.ph/file/2645fb9536dad7eda6aee.jpg",
+    "repository": "https://github.com/Cod3Uchiha/Manjiro-Sano-md",
+    "keywords": ["whatsappbot", "Cod3Uchiha", "Manjiro-Sano-md", "Manjiro Md", "ManjiroMdWhatsappBot", "ManjiroWaBot","GhostMD","Manjiro Sano md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
